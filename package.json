@@ -1,0 +1,25 @@
+{
+  "name": "herokutest",
+  "version": "0.0.0",
+  "description": "Heroku nodejs example",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karel1980/herokutest"
+  },
+  "keywords": [
+    "exampmle",
+    "heroku"
+  ],
+  "author": "Karel Vervaeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karel1980/herokutest/issues"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
